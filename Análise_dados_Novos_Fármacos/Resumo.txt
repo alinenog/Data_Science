@@ -1,2 +1,0 @@
-DRUG DISCOVERY :
-Análise de dados, python, Pandas e genética 
